@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/youtube-up>
 # youtube-up
 
 Upload videos to YouTube using the internal YouTube API.
